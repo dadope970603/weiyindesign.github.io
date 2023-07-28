@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;800");
 
-/*
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2738,9 +2733,8 @@ input, select, textarea {
 				transform: scale(1.1);
 			}
 
-				body:not(.is-touch) .tiles article:hover > .image:before {
-					background-color: #1c1c1c;
-					opacity: 0.60;
+				body:not(.is-touch) .tiles article:hover > .image:before {	
+					opacity: 0;
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
