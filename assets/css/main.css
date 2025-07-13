@@ -2832,8 +2832,8 @@ input, select, textarea {
 			display: block;
 			border-bottom: 0;
 			color: inherit;
-			font-weight: 900;
-			letter-spacing: 0.35em;
+			font-weight: 500;
+			letter-spacing: 0em;
 			margin: 0 0 2.5em 0;
 			text-decoration: none;
 			text-transform: uppercase;
